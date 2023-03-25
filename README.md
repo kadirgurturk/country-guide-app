@@ -7,8 +7,8 @@
 #### Uygulama inputa İngilizce ismi girilen ülkeye göre "ttps://restcountries.com" apisne istek yaparak aldığı verileri ekrana basması ile çalışır.İsteğe karşılık olarak ülkenin bayrağı, başkenti,nüfusu ve resmi dili bilgisi gelir.
 <br/>
 
-<img src="./readmeImg/CountryGuide1.png" height="200"/>
+<img src="./ReadmeImg/CountryGuide1.png" height="200"/>
 <br/> 
 
-<img src="./readmeImg/CountryGuide2.png" height="200"/>
+<img src="./ReadmeImg/CountryGuide2.png" height="200"/>
 <br/> 
